@@ -1,0 +1,232 @@
+{
+    "created_at": 1773063469.531698,
+    "webui": {
+        "remote": "https://github.com/4sas/stable-diffusion-webui.git",
+        "commit_hash": "19b23febf314cf444245365295acae1b42001179",
+        "commit_date": 1768952153,
+        "branch": "develop"
+    },
+    "extensions": {
+        "LDSR": {
+            "name": "LDSR",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\LDSR",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "Lora": {
+            "name": "Lora",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\Lora",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "ScuNET": {
+            "name": "ScuNET",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\ScuNET",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "SwinIR": {
+            "name": "SwinIR",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\SwinIR",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "canvas-zoom-and-pan": {
+            "name": "canvas-zoom-and-pan",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\canvas-zoom-and-pan",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "extra-options-section": {
+            "name": "extra-options-section",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\extra-options-section",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "hypertile": {
+            "name": "hypertile",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\hypertile",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "mobile": {
+            "name": "mobile",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\mobile",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "postprocessing-for-training": {
+            "name": "postprocessing-for-training",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\postprocessing-for-training",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "prompt-bracket-checker": {
+            "name": "prompt-bracket-checker",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\prompt-bracket-checker",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "soft-inpainting": {
+            "name": "soft-inpainting",
+            "path": "C:\\stable-diffusion-webui\\extensions-builtin\\soft-inpainting",
+            "enabled": true,
+            "is_builtin": true,
+            "remote": null,
+            "commit_hash": "",
+            "commit_date": null,
+            "branch": null,
+            "have_info_from_repo": false
+        },
+        "ABG_extension": {
+            "name": "ABG_extension",
+            "path": "C:\\stable-diffusion-webui\\extensions\\ABG_extension",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/KutsuyaYuki/ABG_extension.git",
+            "commit_hash": "eb3ff7610abeca1e4941a398b85aff223e32fba3",
+            "commit_date": 1682976347,
+            "branch": "main",
+            "have_info_from_repo": false
+        },
+        "a1111-sd-webui-lycoris": {
+            "name": "a1111-sd-webui-lycoris",
+            "path": "C:\\stable-diffusion-webui\\extensions\\a1111-sd-webui-lycoris",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris",
+            "commit_hash": "47ddd4a06b4bd9eb5397763313af156e1e06be32",
+            "commit_date": 1708072707,
+            "branch": "main",
+            "have_info_from_repo": false
+        },
+        "multidiffusion-upscaler-for-automatic1111": {
+            "name": "multidiffusion-upscaler-for-automatic1111",
+            "path": "C:\\stable-diffusion-webui\\extensions\\multidiffusion-upscaler-for-automatic1111",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111.git",
+            "commit_hash": "22798f6822bc9c8a905b51da8954ee313b973331",
+            "commit_date": 1723023145,
+            "branch": "main",
+            "have_info_from_repo": false
+        },
+        "sd-dynamic-prompts": {
+            "name": "sd-dynamic-prompts",
+            "path": "C:\\stable-diffusion-webui\\extensions\\sd-dynamic-prompts",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/adieyal/sd-dynamic-prompts.git",
+            "commit_hash": "de056ff8d80e4ad120e13a90cf200f3383f427c6",
+            "commit_date": 1716752038,
+            "branch": "main",
+            "have_info_from_repo": false
+        },
+        "sd-webui-controlnet": {
+            "name": "sd-webui-controlnet",
+            "path": "C:\\stable-diffusion-webui\\extensions\\sd-webui-controlnet",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/Mikubill/sd-webui-controlnet.git",
+            "commit_hash": "56cec5b2958edf3b1807b7e7b2b1b5186dbd2f81",
+            "commit_date": 1721940772,
+            "branch": "main",
+            "have_info_from_repo": false
+        },
+        "sd-webui-deoldify": {
+            "name": "sd-webui-deoldify",
+            "path": "C:\\stable-diffusion-webui\\extensions\\sd-webui-deoldify",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/SpenserCai/sd-webui-deoldify.git",
+            "commit_hash": "945e00bfc3c69fb3267452935f2c6f5f2aa47de4",
+            "commit_date": 1710917781,
+            "branch": "main",
+            "have_info_from_repo": false
+        },
+        "stable-diffusion-webui-rembg": {
+            "name": "stable-diffusion-webui-rembg",
+            "path": "C:\\stable-diffusion-webui\\extensions\\stable-diffusion-webui-rembg",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg.git",
+            "commit_hash": "a4c07b857e73f3035f759876797fa6de986def3d",
+            "commit_date": 1703941443,
+            "branch": "master",
+            "have_info_from_repo": false
+        },
+        "stable-diffusion-webui-wd14-tagger": {
+            "name": "stable-diffusion-webui-wd14-tagger",
+            "path": "C:\\stable-diffusion-webui\\extensions\\stable-diffusion-webui-wd14-tagger",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/picobyte/stable-diffusion-webui-wd14-tagger.git",
+            "commit_hash": "e72d984bdbed832ba83e2a443238c3851b9088ae",
+            "commit_date": 1699099110,
+            "branch": "master",
+            "have_info_from_repo": false
+        },
+        "stable-diffusion-webui-wildcards": {
+            "name": "stable-diffusion-webui-wildcards",
+            "path": "C:\\stable-diffusion-webui\\extensions\\stable-diffusion-webui-wildcards",
+            "enabled": true,
+            "is_builtin": false,
+            "remote": "https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards.git",
+            "commit_hash": "d3964a790d13754d3f944c8407cd6ea4ebfb7982",
+            "commit_date": 1722687922,
+            "branch": "master",
+            "have_info_from_repo": false
+        }
+    },
+    "name": "Config"
+}
